@@ -1,0 +1,12 @@
+{
+    "name": "fonts/preloader",
+    "description": "Generate html for pre load fonts by current browser",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Zahar Pylypchuck",
+            "email": "zacharpu2@gmail.com"
+        }
+    ],
+    "require": {}
+}
