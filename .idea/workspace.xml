@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="010fd313-8544-40a3-b311-f95e635741a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Browser/BrowserBuilder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Browser/BrowserParser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Browser/BrowserType.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loader/LoaderBuilder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loader/PreLoaderRender.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/preloader_google_fonts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/preloader_google_fonts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loader/LoaderBuilder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loader/PreLoaderRender.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +71,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../keperis" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -91,7 +86,7 @@
       <updated>1608727449456</updated>
       <workItem from="1608727450574" duration="1768000" />
       <workItem from="1608744760866" duration="756000" />
-      <workItem from="1608801081507" duration="3742000" />
+      <workItem from="1608801081507" duration="6633000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1608727984681</created>
@@ -114,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608743920867</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created browser class">
+      <created>1608804861479</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608804861479</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +140,7 @@
     <MESSAGE value="init" />
     <MESSAGE value="add gitignore and install phpunit" />
     <MESSAGE value="*" />
-    <option name="LAST_COMMIT_MESSAGE" value="*" />
+    <MESSAGE value="Created browser class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created browser class" />
   </component>
 </project>
